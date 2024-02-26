@@ -2,7 +2,7 @@
 
 # Project Overview
 
-A demo project on Data Ethics using Excel and Jupyter Notebooks to clean, merge, analyze and summarize the fictitious data of a fictious bank Pig E. Bank from CareerFoundry.
+A demo project on Data Ethics using Excel and Jupyter Notebooks to clean, merge, analyze and summarize the fictitious data of a fictious bank Pig E. Bank.
 
 ## Context
 
