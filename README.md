@@ -3,15 +3,15 @@
 
 # Project Overview
 
-A demo project on Data Ethics using Excel and Jupyter Notebooks to clean, merge, analyze and summarize the fictious data of a fictious bank Pig E. Bank from CareerFoundry.
+A demo project on Data Ethics using Excel and Jupyter Notebooks to clean, merge, analyze and summarize the fictitious data of a fictious bank Pig E. Bank from CareerFoundry.
 
 ## Context
 
-Pig E. Bank is a fictional anti-Money Laundering projects. As a new data analyst hire, my role is to provide analytical support to i ts anti-money-laundering compliance department.
+Pig E. Bank is a fictional anti-money laundering project. As a new data analyst hire, my role is to provide analytical support to its anti-money-laundering compliance department.
 
 ## Objectives
 
-Identify the main risk factors that are contributing to customers loss and create a decision tree based on the analysis.
+Identify the main risk factors that are contributing to customer loss and create a decision tree based on the analysis.
 
 ## Data
 
@@ -31,4 +31,4 @@ _Software_: Jupyter Notebooks, Excel, Canva
 
 The distribution by age group for the customers who closed their bank accounts.
 
-![image]( https://github.com/gsmgla/Instacart_Basket_Analysis/blob/main/04%20Visualizations/popular_products_barchart.png)
+![image]( https://github.com/gsmgla/Pig_E_Bank/blob/main/04%20Visualizations/age_distribution.png)
