@@ -1,5 +1,4 @@
 # Pig_E_Bank
-# Instacart_Basket_Analysis
 
 # Project Overview
 
