@@ -28,6 +28,6 @@ _Software_: Jupyter Notebooks, Excel, Canva
 
 ## Visualization Sample
 
-The distribution by age group for the customers who closed their bank accounts (labelled _Age_Exited1_)
+The distribution by age group for active customers (label: _Age_Exited0_) and exited customers (label: _Age_Exited1_).
 
 ![image]( https://github.com/gsmgla/Pig_E_Bank/blob/main/04%20Visualizations/age_distribution.png)
